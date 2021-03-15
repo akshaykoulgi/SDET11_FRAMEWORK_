@@ -16,10 +16,26 @@ public void login(){
 }
 
 
+
 public void dance(){
+}
+
+
+public void okay2(){
+	
+	System.out.println("sadasd");
+	
+	
+}
+	
+	
+
+public void joke(){
 	
 	
 	
+	System.out.println("conf2lict");
+
 }
 
 }
