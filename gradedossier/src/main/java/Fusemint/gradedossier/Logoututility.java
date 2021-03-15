@@ -8,4 +8,11 @@ public void	log(){
 		
 	}
 
+public void login(){
+	
+	
+	
+	System.out.println("conflict");
+}
+
 }
