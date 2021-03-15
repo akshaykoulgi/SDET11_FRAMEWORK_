@@ -15,4 +15,11 @@ public void login(){
 	System.out.println("conflict");
 }
 
+
+public void dance(){
+	
+	
+	
+}
+
 }
