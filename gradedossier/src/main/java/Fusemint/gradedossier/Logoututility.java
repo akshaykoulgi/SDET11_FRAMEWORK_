@@ -15,4 +15,12 @@ public void login(){
 	System.out.println("conflict");
 }
 
+
+public void joke(){
+	
+	
+	
+	System.out.println("conf2lict");
+}
+
 }
